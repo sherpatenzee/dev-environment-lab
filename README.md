@@ -1,4 +1,4 @@
-https://i.imgur.com/ljRcS9d.png
+<img width="303" alt="Screen Shot 2022-01-24 at 5 23 48 PM" src="https://user-images.githubusercontent.com/97621619/150876175-b0419bc6-0a05-4ff3-9aff-ea687f35ffd2.png">
 
 # dev-environment-lab
 
